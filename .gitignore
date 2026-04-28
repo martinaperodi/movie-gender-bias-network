@@ -1,0 +1,14 @@
+# Dati e Modelli
+data/
+models/*.bin
+models/*.pth
+*.csv
+*.json
+
+# Python
+__pycache__/
+.venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints
